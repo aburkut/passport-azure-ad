@@ -1,0 +1,23 @@
+{
+  "name": "passport-azure-ad-fixed",
+  "version": "1.0.0",
+  "description": "=============",
+  "main": "./lib/passport-azure-ad",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aburkut/passport-azure-ad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aburkut/passport-azure-ad/issues"
+  },
+  "homepage": "https://github.com/aburkut/passport-azure-ad"
+}
